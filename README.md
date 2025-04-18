@@ -30,8 +30,6 @@ These files are based on the following Udemy course:
 ---
 
 ## 📁 File Structure
-k6_LoadTesting/
-└── K6_Udemy/ 
 ├── Basics/ 
 ├──GetRequests/ 
 └── PostRequests/
